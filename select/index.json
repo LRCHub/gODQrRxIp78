@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "憂鬱だ！憂鬱だ！憂鬱だ！憂鬱だ！憂鬱だ！",
+  "base_artist": "窓際ぼっち倶楽部",
+  "createdAt": "2026-02-09T12:53:33.337741Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "憂鬱だ!憂鬱だ!憂鬱だ!憂鬱だ!憂鬱だ!",
+      "artist": "窓際ぼっち倶楽部",
+      "has_synced": false,
+      "path": "select/pl_01_憂鬱だ!憂鬱だ!憂鬱だ!憂鬱だ!憂鬱だ!_窓際ぼっち倶楽部.txt"
+    }
+  ]
+}
